@@ -3,11 +3,13 @@ Git Tutorial – Commands And Operations In Git
  Recommended by 178 users
 
 Reshma Ahmed Jul 23,2018
- Git Tutorial – Commands And Operations In Git  Add to Bookmark  Email this Post  36.2K     14
+ Git Tutorial – Commands And Operations In Git  Add to Bookmark  Email gggggggggg this Post  36.2K     14
 Git Tutorial
-Learning Git is as easy as using the tool. The motive of this Git tutorial blog is to omit this dilemma from your mind. I am sure with this Git tutorial blog, you will go brimming through all the concepts. 
+Learning Git is as easy as using the tool. The motive  omit this dilemma from your mind. I am sure with this Git tutorial blog, you will go brimming through all the concepts. 
 
-I hope that you have gone through the basic concepts and terminologies of Git and learned all about Version Control in my first blog of the Git Tutorial series. If you haven’t, please check out my previous blog to get a better understanding of Git.
+I hope that you have gone through the basic concepts and terminologies of Git and learned all 
+
+Tutorial series. If you haven’t, please check out my previous blog hhhhhhhhh to get a better understanding of Git.
 
 In this Git Tutorial, you will learn:
 
