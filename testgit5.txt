@@ -1,1 +1,60 @@
-hello from git5
+hello Redeesh from git5
+Git Tutorial – Commands And Operations In Git
+ Recommended by 178 users
+
+Reshma Ahmed Jul 23,2018
+ Git Tutorial – Commands And Operations In Git  Add to Bookmark  Email this Post  36.2K     14
+Git Tutorial
+Learning Git is as easy as using the tool. The motive of this Git tutorial blog is to omit this dilemma from your mind. I am sure with this Git tutorial blog, you will go brimming through all the concepts. 
+
+I hope that you have gone through the basic concepts and terminologies of Git and learned all about Version Control in my first blog of the Git Tutorial series. If you haven’t, please check out my previous blog to get a better understanding of Git.
+
+In this Git Tutorial, you will learn:
+
+Commands in Git
+Git operations
+And some tips and tricks to manage your project effectively with Git.
+Now that you know what this Git Tutorial will bring to you, let us begin  :-) 
+
+Before starting with the commands and operations let us first understand the primary motive of Git.
+
+The motive of Git is to manage a project or a set of files as they change over time. Git stores this information in a data structure called a Git repository. The repository is the core of Git.
+
+To be very clear, a Git repository is the directory where all of your project files and the related metadata resides.
+
+Git records the current state of the project by creating a tree graph from the index. It is usually in the form of a Directed Acyclic Graph (DAG).
+
+Before you go ahead, check out this video on Git tutorial to have better in-sight.
+
+Git and Github Tutorial
+
+
+Learn DevOps From Experts
+
+Now that you have understood what Git aims to achieve, let us go ahead with the operations and commands.
+
+Git Tutorial – Operations & Commands
+Some of the basic operations in Git are:
+
+
+Initialize
+Add
+Commit
+Pull
+Push
+Some advanced Git operations are:
+
+Branching
+Merging
+Rebasing
+Let me first give you a brief idea about how these operations work with the Git repositories. Take a look at the architecture of Git below:
+
+Git Architechture - Git Tutorial - Edureka
+
+If you understand the above diagram well and good, but if you don’t, you need not worry, I will be explaining these operations in this Git Tutorial one by one. Let us begin with the basic operations.
+
+You need to install Git on your system first. If you need help with the installation, click here.
+
+In this Git Tutorial, I will show you the commands and the operations using Git Bash. Git Bash is a text-only command line interface for using Git on Windows which provides features to run automated scripts.
+
+After installing Git in your Windows system, just open your folder/directory where you want to store all your project files; right click and 
