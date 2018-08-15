@@ -3,15 +3,14 @@ Git Tutorial – Commands And Operations In Git
  Recommended by 178 users
 
 Reshma Ahmed Jul 23,2018
- Git Tutorial – Commands And Operations In Git  Add to Bookmark  Email jjjjjjjjjjjjj this Post  36.2K     14
+ Git Tutorial – Commands And Operations In Git  Add to Bookmark  Email yuttigi this Post  36.2K     14
 Git Tutorial
 Learning Git is as easy as using the tool. The motive  omit this dilemma from your mind. I am sure with this Git tutorial blog, you will go brimming through all the concepts. 
-OKAy added Redeesh sdfsdfklsdjfsdklfjsdfjsdfk
+OKAy added Redeesh sdfsdfklsdjfyyyyyyyyysdklfjsdfjsdfk
 I hope that you have gone through the basic concepts and terminologies of Git and learned all 
 
 Tutorial series. If you haven’t, please check out my previous 
 
-In this Git Tutorial, sfsdfsfsdfsdfsdfsdfsdf you will learn:
 
 Commands in Git
 Git operations
@@ -20,13 +19,15 @@ Now that you know what this Git Tutorial will bring to you, let us begin  :-)
 
 Before starting with the commands and operations let us first understand the primary motive of Git.
 
-The motive of Git is to manage a project or a set of files as they change over time. Git stores this information in a data structure called a Git repository. The repository is the core of Git.
+The motive of Git is to manage a project or aggggggggggggggggg  set of files as they change over time. Git stores this information in a data structure called a Git repository. The repository is the core of Git.
 
 To be very clear, a Git repository is the directory where all of your project files and the related metadata resides.
 
+
+
 Git records the current state of the project by creating a tree graph from the index. It is usually in the form of a Directed Acyclic Graph (DAG).
 
-Before you go ahead, check out this video on Git tutorial to have better in-sight.
+Before you go ahead, check out this video on Git tutorial to have better in-sinbmn,nm.,m.m,/,/,...ght.
 
 Git and Github Tutorial
 
